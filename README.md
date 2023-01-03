@@ -1,0 +1,1 @@
+# This repo contains sql files that I created while practicing SqlServer
